@@ -1,0 +1,32 @@
+{
+  "config": {
+    "model_name": "distilgpt2",
+    "data_path": "data/sample_instructions.jsonl",
+    "eval_frac": 0.2,
+    "seed": 42,
+    "max_seq_len": 96,
+    "batch_size": 2,
+    "grad_accum": 2,
+    "steps": 120,
+    "lr": 0.0005,
+    "warmup_frac": 0.1,
+    "max_grad_norm": 1.0,
+    "log_every": 10,
+    "out_dir": "results",
+    "lora": {
+      "r": 8,
+      "alpha": 16,
+      "dropout": 0.05,
+      "target_modules": [
+        "c_attn"
+      ]
+    }
+  },
+  "n_train": 80,
+  "n_eval": 20,
+  "trainable_params": 147456,
+  "total_params": 82060032,
+  "final_train_loss": 1.6321211457252502,
+  "first_train_loss": 3.7197855710983276,
+  "wall_seconds": 355.0
+}

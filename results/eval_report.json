@@ -1,0 +1,7 @@
+{
+  "n_eval": 20,
+  "eval_perplexity_base": 17.572,
+  "eval_perplexity_lora": 13.126,
+  "perplexity_delta_pct": -25.3,
+  "note": "perplexity over response tokens only, greedy decoding"
+}

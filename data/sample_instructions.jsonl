@@ -1,0 +1,100 @@
+{"instruction": "What is the capital of France?", "response": "The capital of France is Paris."}
+{"instruction": "Explain what photosynthesis is in one sentence.", "response": "Photosynthesis is the process by which green plants convert sunlight, water, and carbon dioxide into glucose and oxygen."}
+{"instruction": "What is 12 multiplied by 8?", "response": "12 multiplied by 8 is 96."}
+{"instruction": "Write a Python function that returns the square of a number.", "response": "def square(n):\n    return n * n"}
+{"instruction": "What does CPU stand for?", "response": "CPU stands for Central Processing Unit."}
+{"instruction": "Summarize the plot of Romeo and Juliet in two sentences.", "response": "Two teenagers from feuding families fall in love in Verona. A chain of misunderstandings leads them both to take their own lives."}
+{"instruction": "What is the boiling point of water at sea level?", "response": "Water boils at 100 degrees Celsius (212 degrees Fahrenheit) at sea level."}
+{"instruction": "Convert 5 kilometers to miles.", "response": "5 kilometers is approximately 3.11 miles."}
+{"instruction": "Write a Python one-liner that reverses a string s.", "response": "reversed_s = s[::-1]"}
+{"instruction": "What is a haiku?", "response": "A haiku is a short Japanese poem with three lines of 5, 7, and 5 syllables."}
+{"instruction": "Name the three states of matter.", "response": "The three common states of matter are solid, liquid, and gas."}
+{"instruction": "What is 15% of 200?", "response": "15% of 200 is 30."}
+{"instruction": "How do you create a list of numbers 1 to 5 in Python?", "response": "numbers = list(range(1, 6))"}
+{"instruction": "What is the past tense of 'go'?", "response": "The past tense of 'go' is 'went'."}
+{"instruction": "Who wrote the play Hamlet?", "response": "William Shakespeare wrote Hamlet."}
+{"instruction": "What planet is known as the Red Planet?", "response": "Mars is known as the Red Planet."}
+{"instruction": "What is 7 squared plus 3 squared?", "response": "7 squared is 49 and 3 squared is 9, so the sum is 58."}
+{"instruction": "Write a Python function that checks if a number is even.", "response": "def is_even(n):\n    return n % 2 == 0"}
+{"instruction": "What is a synonym for 'happy'?", "response": "A synonym for 'happy' is 'joyful'."}
+{"instruction": "In which year did World War II end?", "response": "World War II ended in 1945."}
+{"instruction": "What is the largest ocean on Earth?", "response": "The Pacific Ocean is the largest ocean on Earth."}
+{"instruction": "Simplify the fraction 8/12.", "response": "8/12 simplifies to 2/3."}
+{"instruction": "How do you open a file for reading in Python?", "response": "with open('file.txt', 'r') as f:\n    content = f.read()"}
+{"instruction": "What is an antonym for 'hot'?", "response": "An antonym for 'hot' is 'cold'."}
+{"instruction": "What is the currency of Japan?", "response": "The currency of Japan is the yen."}
+{"instruction": "How many sides does a hexagon have?", "response": "A hexagon has 6 sides."}
+{"instruction": "Write a Python loop that prints numbers 0 to 4.", "response": "for i in range(5):\n    print(i)"}
+{"instruction": "What is the plural of 'child'?", "response": "The plural of 'child' is 'children'."}
+{"instruction": "Who painted the Mona Lisa?", "response": "Leonardo da Vinci painted the Mona Lisa."}
+{"instruction": "What gas do plants absorb from the air?", "response": "Plants absorb carbon dioxide from the air."}
+{"instruction": "What is 100 divided by 4?", "response": "100 divided by 4 is 25."}
+{"instruction": "How do you check the length of a list in Python?", "response": "length = len(my_list)"}
+{"instruction": "Give an example of a metaphor.", "response": "'Time is a thief' is a metaphor comparing time to a thief."}
+{"instruction": "What is the tallest mountain in the world?", "response": "Mount Everest is the tallest mountain in the world."}
+{"instruction": "What is the chemical symbol for gold?", "response": "The chemical symbol for gold is Au."}
+{"instruction": "If a train travels 60 mph for 2.5 hours, how far does it go?", "response": "It travels 150 miles (60 x 2.5)."}
+{"instruction": "Write a Python function that returns the largest of two numbers.", "response": "def larger(a, b):\n    return a if a > b else b"}
+{"instruction": "What is a noun?", "response": "A noun is a word that names a person, place, thing, or idea."}
+{"instruction": "Which continent is Egypt in?", "response": "Egypt is in Africa (with a small part in Asia)." }
+{"instruction": "How many minutes are in 3 hours?", "response": "There are 180 minutes in 3 hours."}
+{"instruction": "How do you add an item to a Python list?", "response": "my_list.append(item)"}
+{"instruction": "What is alliteration? Give an example.", "response": "Alliteration is repeating the same initial sound, e.g. 'Peter Piper picked peppers'."}
+{"instruction": "What is the hardest natural material?", "response": "Diamond is the hardest natural material."}
+{"instruction": "What is the square root of 144?", "response": "The square root of 144 is 12."}
+{"instruction": "Write a Python dictionary with keys 'name' and 'age'.", "response": "person = {'name': 'Ada', 'age': 36}"}
+{"instruction": "What is the difference between 'their', 'there', and 'they're'?", "response": "'Their' shows possession, 'there' refers to a place, and 'they're' means 'they are'."}
+{"instruction": "Who was the first president of the United States?", "response": "George Washington was the first president of the United States."}
+{"instruction": "What is the speed of light approximately?", "response": "The speed of light is approximately 300,000 kilometers per second."}
+{"instruction": "A store sells apples for $2 each. How much do 7 cost?", "response": "7 apples cost $14."}
+{"instruction": "How do you sort a Python list in place?", "response": "my_list.sort()"}
+{"instruction": "What is a verb?", "response": "A verb is a word that describes an action or state, like 'run' or 'is'."}
+{"instruction": "What is the longest river in the world?", "response": "The Nile and the Amazon are the two contenders; most lists name the Nile as the longest."}
+{"instruction": "What is 2 to the power of 10?", "response": "2 to the power of 10 is 1024."}
+{"instruction": "Write a Python list comprehension that squares 0 to 4.", "response": "squares = [x * x for x in range(5)]"}
+{"instruction": "Correct this sentence: 'She don't like apples.'", "response": "The correct sentence is: 'She doesn't like apples.'"}
+{"instruction": "What ancient civilization built the pyramids of Giza?", "response": "The ancient Egyptians built the pyramids of Giza."}
+{"instruction": "How many legs does a spider have?", "response": "A spider has 8 legs."}
+{"instruction": "What is the average of 10, 20, and 30?", "response": "The average is 20."}
+{"instruction": "How do you read a JSON file in Python?", "response": "import json\nwith open('data.json') as f:\n    data = json.load(f)"}
+{"instruction": "What is an adjective?", "response": "An adjective is a word that describes a noun, like 'blue' or 'tall'."}
+{"instruction": "What year did humans first land on the Moon?", "response": "Humans first landed on the Moon in 1969."}
+{"instruction": "What is H2O commonly known as?", "response": "H2O is water."}
+{"instruction": "If you have 3/4 of a pizza and eat 1/4, how much is left?", "response": "You have 1/2 of the pizza left."}
+{"instruction": "Write a Python function that counts vowels in a string.", "response": "def count_vowels(s):\n    return sum(1 for c in s.lower() if c in 'aeiou')"}
+{"instruction": "What is personification? Give an example.", "response": "Personification gives human traits to non-humans, e.g. 'The wind whispered through the trees'."}
+{"instruction": "Which planet is closest to the Sun?", "response": "Mercury is the planet closest to the Sun."}
+{"instruction": "How many days are in a leap year?", "response": "A leap year has 366 days."}
+{"instruction": "How do you join a list of strings with commas in Python?", "response": "result = ', '.join(items)"}
+{"instruction": "What is the comparative form of 'good'?", "response": "The comparative form of 'good' is 'better'."}
+{"instruction": "What empire built the Colosseum?", "response": "The Roman Empire built the Colosseum."}
+{"instruction": "What do bees collect from flowers?", "response": "Bees collect nectar (and pollen) from flowers."}
+{"instruction": "What is 9 x 9?", "response": "9 x 9 is 81."}
+{"instruction": "How do you check if a key exists in a Python dict?", "response": "if 'key' in my_dict:"}
+{"instruction": "Rewrite in passive voice: 'The chef cooked the meal.'", "response": "'The meal was cooked by the chef.'"}
+{"instruction": "What is the capital of Australia?", "response": "The capital of Australia is Canberra."}
+{"instruction": "What force pulls objects toward Earth?", "response": "Gravity pulls objects toward Earth."}
+{"instruction": "What is 25% of 80?", "response": "25% of 80 is 20."}
+{"instruction": "Write a Python try/except that catches ValueError.", "response": "try:\n    x = int(s)\nexcept ValueError:\n    x = 0"}
+{"instruction": "What is a palindrome? Give an example.", "response": "A palindrome reads the same backward and forward, e.g. 'racecar'."}
+{"instruction": "In which country is the Great Wall?", "response": "The Great Wall is in China."}
+{"instruction": "How many centimeters are in a meter?", "response": "There are 100 centimeters in a meter."}
+{"instruction": "How do you get the current date in Python?", "response": "from datetime import date\ntoday = date.today()"}
+{"instruction": "What is hyperbole? Give an example.", "response": "Hyperbole is deliberate exaggeration, e.g. 'I'm so hungry I could eat a horse'."}
+{"instruction": "What is the smallest prime number?", "response": "The smallest prime number is 2."}
+{"instruction": "What is 50 minus 17?", "response": "50 minus 17 is 33."}
+{"instruction": "Write a Python function that joins first and last name.", "response": "def full_name(first, last):\n    return f'{first} {last}'"}
+{"instruction": "What does 'break a leg' mean as an idiom?", "response": "It means 'good luck', said to performers before a show."}
+{"instruction": "Who wrote '1984'?", "response": "George Orwell wrote '1984'."}
+{"instruction": "What is the freezing point of water in Fahrenheit?", "response": "Water freezes at 32 degrees Fahrenheit."}
+{"instruction": "A rectangle is 5 by 3. What is its area?", "response": "The area is 15 square units."}
+{"instruction": "How do you write a comment in Python?", "response": "# this is a comment"}
+{"instruction": "What is onomatopoeia? Give an example.", "response": "Onomatopoeia is a word that imitates a sound, e.g. 'buzz' or 'hiss'."}
+{"instruction": "What is the largest desert in the world?", "response": "The Antarctic Desert is the largest desert in the world."}
+{"instruction": "How many seconds are in one hour?", "response": "There are 3600 seconds in one hour."}
+{"instruction": "Write Python code that prints 'hello' 3 times.", "response": "for _ in range(3):\n    print('hello')"}
+{"instruction": "What is the superlative form of 'big'?", "response": "The superlative form of 'big' is 'biggest'."}
+{"instruction": "Which ocean is between Africa and Australia?", "response": "The Indian Ocean lies between Africa and Australia."}
+{"instruction": "What is 11 times 11?", "response": "11 times 11 is 121."}
+{"instruction": "How do you remove the last item of a Python list and get it?", "response": "item = my_list.pop()"}
+{"instruction": "Give an example of a simile.", "response": "'Brave as a lion' is a simile comparing bravery to a lion."}

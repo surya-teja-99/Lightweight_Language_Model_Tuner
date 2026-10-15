@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "Explain what photosynthesis is in one sentence.",
+    "response": "Photosynthesis is the process by which green plants convert sunlight, water, and carbon dioxide into glucose and oxygen."
+  },
+  {
+    "instruction": "What is a haiku?",
+    "response": "A haiku is a short Japanese poem with three lines of 5, 7, and 5 syllables."
+  },
+  {
+    "instruction": "Name the three states of matter.",
+    "response": "The three common states of matter are solid, liquid, and gas."
+  },
+  {
+    "instruction": "What planet is known as the Red Planet?",
+    "response": "Mars is known as the Red Planet."
+  },
+  {
+    "instruction": "What is a noun?",
+    "response": "A noun is a word that names a person, place, thing, or idea."
+  },
+  {
+    "instruction": "What is alliteration? Give an example.",
+    "response": "Alliteration is repeating the same initial sound, e.g. 'Peter Piper picked peppers'."
+  },
+  {
+    "instruction": "What is the hardest natural material?",
+    "response": "Diamond is the hardest natural material."
+  },
+  {
+    "instruction": "What is the difference between 'their', 'there', and 'they're'?",
+    "response": "'Their' shows possession, 'there' refers to a place, and 'they're' means 'they are'."
+  },
+  {
+    "instruction": "A store sells apples for $2 each. How much do 7 cost?",
+    "response": "7 apples cost $14."
+  },
+  {
+    "instruction": "What is a verb?",
+    "response": "A verb is a word that describes an action or state, like 'run' or 'is'."
+  },
+  {
+    "instruction": "What ancient civilization built the pyramids of Giza?",
+    "response": "The ancient Egyptians built the pyramids of Giza."
+  },
+  {
+    "instruction": "How many legs does a spider have?",
+    "response": "A spider has 8 legs."
+  },
+  {
+    "instruction": "Which planet is closest to the Sun?",
+    "response": "Mercury is the planet closest to the Sun."
+  },
+  {
+    "instruction": "What do bees collect from flowers?",
+    "response": "Bees collect nectar (and pollen) from flowers."
+  },
+  {
+    "instruction": "How do you check if a key exists in a Python dict?",
+    "response": "if 'key' in my_dict:"
+  },
+  {
+    "instruction": "Rewrite in passive voice: 'The chef cooked the meal.'",
+    "response": "'The meal was cooked by the chef.'"
+  },
+  {
+    "instruction": "What is 25% of 80?",
+    "response": "25% of 80 is 20."
+  },
+  {
+    "instruction": "What is a palindrome? Give an example.",
+    "response": "A palindrome reads the same backward and forward, e.g. 'racecar'."
+  },
+  {
+    "instruction": "What is onomatopoeia? Give an example.",
+    "response": "Onomatopoeia is a word that imitates a sound, e.g. 'buzz' or 'hiss'."
+  },
+  {
+    "instruction": "What is the largest desert in the world?",
+    "response": "The Antarctic Desert is the largest desert in the world."
+  }
+]
