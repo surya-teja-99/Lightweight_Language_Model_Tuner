@@ -8,12 +8,12 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from loraforge.config import TrainConfig
-from loraforge.evaluate import evaluate
+from lightweight_language_model_tuner.config import TrainConfig
+from lightweight_language_model_tuner.evaluate import evaluate
 
 
 def main() -> None:
-    ap = argparse.ArgumentParser(description="LoRAForge evaluation")
+    ap = argparse.ArgumentParser(description="Lightweight_Language_Model_Tuner evaluation")
     ap.add_argument("--model", default="distilgpt2")
     ap.add_argument("--out", default="results",
                     help="directory holding the trained adapter + eval split")

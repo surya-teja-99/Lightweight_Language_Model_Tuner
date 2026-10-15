@@ -1,4 +1,4 @@
-# LoRAForge
+# Lightweight_Language_Model_Tuner
 
 Fine-tune a small open language model with **LoRA** (Low-Rank Adaptation) on a
 CPU-only machine — real training, real training curves, real eval numbers.
@@ -6,7 +6,7 @@ No GPU, no skeleton code: `make demo` runs the full pipeline end to end.
 
 ## What it does
 
-LoRAForge takes `distilgpt2` (82M params, open weights), freezes it, and trains
+Lightweight_Language_Model_Tuner takes `distilgpt2` (82M params, open weights), freezes it, and trains
 a tiny LoRA adapter (`r=8` on the fused QKV projection `c_attn`) on 100
 instruction/response pairs. It then reports:
 
@@ -92,8 +92,8 @@ See `results/generations.md` for unedited base-vs-adapter samples.
 ## Project layout
 
 ```
-LoRAForge/
-├── loraforge/          # the package
+Lightweight_Language_Model_Tuner/
+├── lightweight_language_model_tuner/          # the package
 │   ├── config.py       # TrainConfig / LoRAConfig dataclasses
 │   ├── dataset.py      # JSONL loading, prompt template, label masking
 │   ├── model.py        # tokenizer + base model + PEFT LoRA wiring

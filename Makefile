@@ -18,4 +18,4 @@ test:
 demo: train eval test
 
 clean:
-	rm -rf results .venv __pycache__ loraforge/__pycache__ tests/__pycache__
+	rm -rf results .venv __pycache__ lightweight_language_model_tuner/__pycache__ tests/__pycache__

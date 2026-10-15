@@ -8,12 +8,12 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from loraforge.config import TrainConfig
-from loraforge.train import train
+from lightweight_language_model_tuner.config import TrainConfig
+from lightweight_language_model_tuner.train import train
 
 
 def main() -> None:
-    ap = argparse.ArgumentParser(description="LoRAForge training demo")
+    ap = argparse.ArgumentParser(description="Lightweight_Language_Model_Tuner training demo")
     ap.add_argument("--data", default="data/sample_instructions.jsonl",
                     help="JSONL file of instruction/response pairs")
     ap.add_argument("--steps", type=int, default=120,

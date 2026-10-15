@@ -1,4 +1,4 @@
-"""Configuration dataclasses for LoRAForge."""
+"""Configuration dataclasses for Lightweight_Language_Model_Tuner."""
 
 from __future__ import annotations
 

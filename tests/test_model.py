@@ -7,8 +7,8 @@
 
 from transformers import AutoConfig, AutoModelForCausalLM
 
-from loraforge.config import TrainConfig
-from loraforge.model import load_tokenizer
+from lightweight_language_model_tuner.config import TrainConfig
+from lightweight_language_model_tuner.model import load_tokenizer
 
 
 def test_lora_targets_exist_in_architecture():

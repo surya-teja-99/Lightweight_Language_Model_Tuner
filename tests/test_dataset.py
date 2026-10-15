@@ -4,7 +4,7 @@ import json
 
 import pytest
 
-from loraforge.dataset import (
+from lightweight_language_model_tuner.dataset import (
     InstructionDataset,
     encode_example,
     format_prompt,

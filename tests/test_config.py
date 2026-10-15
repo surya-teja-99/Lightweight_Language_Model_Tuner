@@ -1,6 +1,6 @@
 """Unit tests for configuration defaults and round-tripping."""
 
-from loraforge.config import LoRAConfig, TrainConfig
+from lightweight_language_model_tuner.config import LoRAConfig, TrainConfig
 
 
 def test_demo_defaults_sane():
